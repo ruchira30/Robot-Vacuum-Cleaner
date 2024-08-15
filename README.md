@@ -2,7 +2,7 @@ Autonomous Robot Vacuum Cleaner
 
 Overview
 
-This project showcases an autonomous robot vacuum cleaner built with an Arduino microcontroller. The robot is designed to navigate and clean surfaces while avoiding obstacles, illustrating practical applications of embedded systems and robotics.
+This project showcases an autonomous robot vacuum cleaner built with an Arduino microcontroller. The robot is designed to navigate and clean surfaces while avoiding obstacles.
 
 Features
 
