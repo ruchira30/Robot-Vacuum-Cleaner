@@ -28,4 +28,5 @@ The robot’s behavior is programmed in C/C++ using the Arduino IDE. The code in
 
 - Object Detection: Real-time processing to detect objects within 15 cm.
 - Obstacle Avoidance: Logic for maneuvering around obstacles.
-- Vacuum Control: Management of the DC motor and fan.
+
+  [Robot Cleaner](https://github.com/ruchira30/Robot-Vacuum-Cleaner/blob/main/IMAGES/robot%20car.jpg)
